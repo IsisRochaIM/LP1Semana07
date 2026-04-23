@@ -2,4 +2,5 @@
   <Project Path="BetterColorSpheres/BetterColorSpheres.csproj" />
   <Project Path="ColorSpheres/ColorSpheres.csproj" />
   <Project Path="PlayerStats/PlayerStats.csproj" />
+  <Project Path="PowerCell/PowerCell.csproj" />
 </Solution>
