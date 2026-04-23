@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="BetterColorSpheres/BetterColorSpheres.csproj" />
+  <Project Path="ColorSpheres/ColorSpheres.csproj" />
 </Solution>
