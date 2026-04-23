@@ -17,7 +17,7 @@ namespace BetterColorSpheres
             bola.Throw();
             bola.Throw();
             bola.Throw();
-            Console.WriteLine("/n" + bola.Arremessos);
+            Console.WriteLine(bola.Arremessos);
             bola.Pop();
             bola.Throw();
             Console.WriteLine(bola.Arremessos);
